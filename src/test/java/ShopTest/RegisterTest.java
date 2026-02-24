@@ -1,5 +1,6 @@
 package ShopTest;
 
+import ShopObjects.RegisterPage;
 import com.codeborne.selenide.Condition;
 import org.junit.jupiter.api.Test;
 

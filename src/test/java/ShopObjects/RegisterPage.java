@@ -1,4 +1,4 @@
-package ShopTest;
+package ShopObjects;
 
 import com.codeborne.selenide.SelenideElement;
 
